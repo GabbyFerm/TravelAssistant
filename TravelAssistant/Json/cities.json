@@ -1,0 +1,113 @@
+{
+  "cities": [
+    {
+      "name": "Stockholm",
+      "connections": [
+        {
+          "destination": "Oslo",
+          "distance": 525,
+          "time": 390,
+          "cost": 700,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Helsingfors",
+          "distance": 395,
+          "time": 120,
+          "cost": 1500,
+          "travelMethod": "boat"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 1100,
+          "time": 90,
+          "cost": 2500,
+          "travelMethod": "plane"
+        }
+      ]
+    },
+    {
+      "name": "Oslo",
+      "connections": [
+        {
+          "destination": "Stockholm",
+          "distance": 525,
+          "time": 390,
+          "cost": 700,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Köpenhamn",
+          "distance": 600,
+          "time": 420,
+          "cost": 800,
+          "travelMethod": "car"
+        }
+      ]
+    },
+    {
+      "name": "Berlin",
+      "connections": [
+        {
+          "destination": "Stockholm",
+          "distance": 1100,
+          "time": 90,
+          "cost": 2500,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Köpenhamn",
+          "distance": 400,
+          "time": 60,
+          "cost": 1000,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Paris",
+          "distance": 1050,
+          "time": 540,
+          "cost": 2000,
+          "travelMethod": "car"
+        }
+      ]
+    },
+    {
+      "name": "Köpenhamn",
+      "connections": [
+        {
+          "destination": "Oslo",
+          "distance": 600,
+          "time": 420,
+          "cost": 800,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 400,
+          "time": 60,
+          "cost": 1000,
+          "travelMethod": "plane"
+        }
+      ]
+    },
+    {
+      "name": "Paris",
+      "connections": [
+        {
+          "destination": "Berlin",
+          "distance": 1050,
+          "time": 540,
+          "cost": 2000,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "London",
+          "distance": 340,
+          "time": 75,
+          "cost": 1500,
+          "travelMethod": "plane"
+        }
+      ]
+    }
+  ]
+}

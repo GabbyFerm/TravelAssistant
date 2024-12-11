@@ -1,0 +1,1003 @@
+﻿[
+  {
+    "Name": "Stockholm",
+    "Connections": [
+      {
+        "Destination": "Gothenburg",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 600
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 300,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Malmö",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 600,
+            "Time": 540,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 600,
+            "Time": 320,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 600,
+            "Time": 90,
+            "Cost": 1300
+          }
+        ]
+      },
+      {
+        "Destination": "Oslo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 240,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Paris",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1500,
+            "Time": 1200,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1500,
+            "Time": 900,
+            "Cost": 1600
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1500,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      },
+      {
+        "Destination": "Copenhagen",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 600,
+            "Time": 540,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 600,
+            "Time": 320,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 600,
+            "Time": 90,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Helsinki",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 800,
+            "Time": 780,
+            "Cost": 900
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 800,
+            "Time": 400,
+            "Cost": 950
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 800,
+            "Time": 90,
+            "Cost": 1400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Gothenburg",
+    "Connections": [
+      {
+        "Destination": "Stockholm",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 600
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 300,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Malmö",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 200,
+            "Time": 240,
+            "Cost": 300
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 200,
+            "Time": 120,
+            "Cost": 350
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 200,
+            "Time": 30,
+            "Cost": 500
+          }
+        ]
+      },
+      {
+        "Destination": "Oslo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 240,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Paris",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1500,
+            "Time": 1200,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1500,
+            "Time": 900,
+            "Cost": 1600
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1500,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      },
+      {
+        "Destination": "Copenhagen",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 600,
+            "Time": 540,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 600,
+            "Time": 320,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 600,
+            "Time": 90,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Helsinki",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 800,
+            "Time": 780,
+            "Cost": 900
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 800,
+            "Time": 400,
+            "Cost": 950
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 800,
+            "Time": 90,
+            "Cost": 1400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Malmö",
+    "Connections": [
+      {
+        "Destination": "Gothenburg",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 200,
+            "Time": 240,
+            "Cost": 300
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 200,
+            "Time": 120,
+            "Cost": 350
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 200,
+            "Time": 30,
+            "Cost": 500
+          }
+        ]
+      },
+      {
+        "Destination": "Stockholm",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 600,
+            "Time": 540,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 600,
+            "Time": 320,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 600,
+            "Time": 90,
+            "Cost": 1300
+          }
+        ]
+      },
+      {
+        "Destination": "Oslo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 240,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Paris",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1500,
+            "Time": 1200,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1500,
+            "Time": 900,
+            "Cost": 1600
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1500,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      },
+      {
+        "Destination": "Copenhagen",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 600,
+            "Time": 540,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 600,
+            "Time": 320,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 600,
+            "Time": 90,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Helsinki",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 800,
+            "Time": 780,
+            "Cost": 900
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 800,
+            "Time": 400,
+            "Cost": 950
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 800,
+            "Time": 90,
+            "Cost": 1400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Oslo",
+    "Connections": [
+      {
+        "Destination": "Stockholm",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 360,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 240,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Gothenburg",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 240,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Malmö",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 480,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 240,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 60,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Paris",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1500,
+            "Time": 1200,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1500,
+            "Time": 900,
+            "Cost": 1600
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1500,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      },
+      {
+        "Destination": "Copenhagen",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 600,
+            "Time": 540,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 600,
+            "Time": 320,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 600,
+            "Time": 90,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Helsinki",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 800,
+            "Time": 780,
+            "Cost": 900
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 800,
+            "Time": 400,
+            "Cost": 950
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 800,
+            "Time": 90,
+            "Cost": 1400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Helsinki",
+    "Connections": [
+      {
+        "Destination": "Stockholm",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 400,
+            "Time": 300,
+            "Cost": 600
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 400,
+            "Time": 180,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 400,
+            "Time": 90,
+            "Cost": 1000
+          }
+        ]
+      },
+      {
+        "Destination": "Gothenburg",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 400,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 230,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 90,
+            "Cost": 1100
+          }
+        ]
+      },
+      {
+        "Destination": "Malmo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 450,
+            "Time": 380,
+            "Cost": 650
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 450,
+            "Time": 200,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 450,
+            "Time": 90,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Oslo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 800,
+            "Time": 650,
+            "Cost": 1000
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 800,
+            "Time": 400,
+            "Cost": 1200
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 800,
+            "Time": 120,
+            "Cost": 1400
+          }
+        ]
+      },
+      {
+        "Destination": "Copenhagen",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 400,
+            "Time": 320,
+            "Cost": 650
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 400,
+            "Time": 180,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 400,
+            "Time": 90,
+            "Cost": 1100
+          }
+        ]
+      },
+      {
+        "Destination": "Paris",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1000,
+            "Time": 800,
+            "Cost": 1200
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1000,
+            "Time": 600,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1000,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Copenhagen",
+    "Connections": [
+      {
+        "Destination": "Stockholm",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 650,
+            "Time": 550,
+            "Cost": 900
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 650,
+            "Time": 300,
+            "Cost": 950
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 650,
+            "Time": 70,
+            "Cost": 1500
+          }
+        ]
+      },
+      {
+        "Destination": "Gothenburg",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 550,
+            "Time": 450,
+            "Cost": 800
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 550,
+            "Time": 230,
+            "Cost": 850
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 550,
+            "Time": 80,
+            "Cost": 1300
+          }
+        ]
+      },
+      {
+        "Destination": "Malmo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 500,
+            "Time": 400,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 500,
+            "Time": 200,
+            "Cost": 750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 500,
+            "Time": 90,
+            "Cost": 1200
+          }
+        ]
+      },
+      {
+        "Destination": "Oslo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 650,
+            "Time": 500,
+            "Cost": 950
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 650,
+            "Time": 300,
+            "Cost": 1000
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 650,
+            "Time": 90,
+            "Cost": 1400
+          }
+        ]
+      },
+      {
+        "Destination": "Helsinki",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 400,
+            "Time": 320,
+            "Cost": 650
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 400,
+            "Time": 180,
+            "Cost": 700
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 400,
+            "Time": 90,
+            "Cost": 1100
+          }
+        ]
+      },
+      {
+        "Destination": "Paris",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1000,
+            "Time": 800,
+            "Cost": 1200
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1000,
+            "Time": 600,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1000,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Paris",
+    "Connections": [
+      {
+        "Destination": "Stockholm",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1300,
+            "Time": 1000,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1300,
+            "Time": 900,
+            "Cost": 1800
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1300,
+            "Time": 180,
+            "Cost": 3000
+          }
+        ]
+      },
+      {
+        "Destination": "Gothenburg",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1200,
+            "Time": 950,
+            "Cost": 1400
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1200,
+            "Time": 800,
+            "Cost": 1700
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1200,
+            "Time": 150,
+            "Cost": 2800
+          }
+        ]
+      },
+      {
+        "Destination": "Malmo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1250,
+            "Time": 1000,
+            "Cost": 1450
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1250,
+            "Time": 850,
+            "Cost": 1750
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1250,
+            "Time": 160,
+            "Cost": 2900
+          }
+        ]
+      },
+      {
+        "Destination": "Oslo",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1400,
+            "Time": 1200,
+            "Cost": 1600
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1400,
+            "Time": 950,
+            "Cost": 2000
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1400,
+            "Time": 180,
+            "Cost": 3200
+          }
+        ]
+      },
+      {
+        "Destination": "Copenhagen",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1000,
+            "Time": 800,
+            "Cost": 1200
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1000,
+            "Time": 600,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1000,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      },
+      {
+        "Destination": "Helsinki",
+        "TravelOptions": [
+          {
+            "TravelMethod": "Bus",
+            "Distance": 1000,
+            "Time": 800,
+            "Cost": 1200
+          },
+          {
+            "TravelMethod": "Train",
+            "Distance": 1000,
+            "Time": 600,
+            "Cost": 1500
+          },
+          {
+            "TravelMethod": "Plane",
+            "Distance": 1000,
+            "Time": 150,
+            "Cost": 2500
+          }
+        ]
+      }
+    ]
+  }
+]
